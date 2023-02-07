@@ -1,5 +1,5 @@
-# Genre Classification
-Genre classification with GTZAN dataset
+# Musical Genre Classification
+Musical genre classification with GTZAN dataset
 - Data source: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 
 Notebook 1. [Feature Analysis](https://github.com/jo-cho/genre_classification/blob/main/feature_analysis.ipynb)
