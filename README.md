@@ -12,7 +12,7 @@ Notebook 2. [Machine Learning Classification](https://github.com/jo-cho/genre_cl
 ## These notebooks
 - see how to extract features from audio data (.wav)
 - analyze features
-- genre classification with three kinds of machine learning models
+- genre classification with three kinds of machine learning models: SVM, Random Forest and XGBoost
 - interpret the results
 
 ## What is different from other notebooks?
