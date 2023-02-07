@@ -20,7 +20,7 @@ Notebook 2. [Machine Learning Classification](https://github.com/jo-cho/genre_cl
 - models with hyperparameter tuning
 - proper train/test split
   - it ensures that the excerpts from same song are not both included in train and test set
-  - many notebooks using this data make this mistake
+  - many notebooks are making this mistake
 - interpretation of the results showing misclassified genre pairs
   - is it really misclassified? what if the song has very similar musical characteristics despite its specified genre?
 
