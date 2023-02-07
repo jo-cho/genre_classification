@@ -15,7 +15,7 @@ Notebook 2. [Machine Learning Classification](https://github.com/jo-cho/genre_cl
 - genre classification with three machine learning models: SVM, Random Forest and XGBoost
 - interpret the results
 
-## What is different from other notebooks?
+## What is different from other notebooks using GTZAN dataset?
 
 - models with hyperparameter tuning
 - proper train/test split
