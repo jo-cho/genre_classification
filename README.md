@@ -6,6 +6,8 @@ Notebook 1. [Feature Analysis](https://github.com/jo-cho/genre_classification/bl
 
 Notebook 2. [Machine Learning Classification](https://github.com/jo-cho/genre_classification/blob/main/ml_classification.ipynb)
 
+Notebook 3. [Song Similarity](https://colab.research.google.com/github/jo-cho/Genre_Classification_GTZAN_Dataset/blob/main/song_similarity.ipynb)
+
 ---
 
 # Musical Feature Analysis and Genre Classification
