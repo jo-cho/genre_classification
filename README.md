@@ -29,7 +29,6 @@ Notebook 3. [Song Similarity](https://colab.research.google.com/github/jo-cho/Ge
 
 ---
 
-- You can also find these notebooks at:
+- You can also find these notebooks at my Kaggle codes:
   - https://www.kaggle.com/code/jojothepizza/genre-classification-and-musical-features-analysis
-
-
+  - https://www.kaggle.com/code/jojothepizza/similarity-between-songs-using-audio-features
