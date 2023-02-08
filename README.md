@@ -15,7 +15,8 @@ Notebook 3. [Song Similarity](https://colab.research.google.com/github/jo-cho/Ge
 - see how to extract features from audio data (.wav)
 - analyze features
 - genre classification with three machine learning models: SVM, Random Forest and XGBoost
-- interpret the results
+- interpret the classification results
+- compute similarity between songs using different distances: cosine, euclidean, correlation
 
 ## What is different from other notebooks using GTZAN dataset?
 
