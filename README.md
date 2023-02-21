@@ -36,3 +36,13 @@ Notebook 3. [Song Similarity](https://colab.research.google.com/github/jo-cho/ge
 ---
 
 # With FMA Data
+
+Musical genre classification with FMA dataset
+- Data source: https://www.kaggle.com/datasets/imsparsh/fma-free-music-archive-small-medium
+
+Notebook 1. [ML Classification](https://github.com/jo-cho/genre_classification/blob/main/FMA/genre_classification_with_fma_data.ipynb)
+
+
+---
+
+
