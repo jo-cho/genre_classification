@@ -1,16 +1,18 @@
 # Musical Genre Classification
-Musical genre classification with GTZAN dataset
-- Data source: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
-
-Notebook 1. [Feature Analysis](https://github.com/jo-cho/genre_classification/blob/main/feature_analysis.ipynb)
-
-Notebook 2. [Machine Learning Classification](https://github.com/jo-cho/genre_classification/blob/main/ml_classification.ipynb)
-
-Notebook 3. [Song Similarity](https://colab.research.google.com/github/jo-cho/Genre_Classification_GTZAN_Dataset/blob/main/song_similarity.ipynb)
 
 ---
 
-# Musical Feature Analysis and Genre Classification
+# With GTZAN Data
+
+Musical genre classification with GTZAN dataset
+- Data source: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+Notebook 1. [Feature Analysis](https://github.com/jo-cho/genre_classification/blob/main/GTZAN/feature_analysis.ipynb)
+
+Notebook 2. [Machine Learning Classification](https://github.com/jo-cho/genre_classification/blob/main/GTZAN/ml_classification.ipynb)
+
+Notebook 3. [Song Similarity](https://colab.research.google.com/github/jo-cho/genre_classification/blob/main/GTZAN/song_similarity.ipynb)
+
 ## These notebooks
 - see how to extract features from audio data (.wav)
 - analyze features
@@ -27,8 +29,10 @@ Notebook 3. [Song Similarity](https://colab.research.google.com/github/jo-cho/Ge
 - interpretation of the results showing misclassified genre pairs
   - is it really misclassified? what if the song has very similar musical characteristics despite its specified genre?
 
----
-
 - You can also find these notebooks at my Kaggle codes:
   - https://www.kaggle.com/code/jojothepizza/genre-classification-and-musical-features-analysis
   - https://www.kaggle.com/code/jojothepizza/similarity-between-songs-using-audio-features
+  
+---
+
+# With FMA Data
